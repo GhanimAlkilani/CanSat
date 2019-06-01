@@ -1,7 +1,7 @@
-# CanSat
+# CubeSat
 
 ## Description
-CanSat it's small Sat with many features such as catch photos and videos and 
+CubeSat it's small Sat with many features such as catch photos and videos and 
 send information from the space to the reciver on the earth ..etc
 
 
@@ -13,7 +13,7 @@ send information from the space to the reciver on the earth ..etc
 
 ## Pictures
 
-#### CanSat
+#### CubeSat
 <div style="text-align:center"><img src ="https://github.com/GhanimAlkilani/CanSat/blob/master/Pictures/3.jpeg" /></div>
 
 
