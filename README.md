@@ -2,7 +2,7 @@
 
 ## Description
 CubeSat it's small Sat with many features such as catch photos and videos and 
-send information from the space to the reciver on the earth ..etc
+send information from the space to the receiver on the earth ..etc
 
 
 ## Technologies 
@@ -26,7 +26,7 @@ send information from the space to the reciver on the earth ..etc
 <div style="text-align:center"><img src ="https://github.com/GhanimAlkilani/CanSat/blob/master/Pictures/9.jpeg" /></div>
 
 
-#### Receiver
+#### Receiver 
 <div style="text-align:center"><img src ="https://github.com/GhanimAlkilani/CanSat/blob/master/Pictures/Reciver.jpeg" /></div>
 
 
