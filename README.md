@@ -6,7 +6,7 @@ send information from the space to the reciver on the earth ..etc
 
 
 ## Technologies 
-- 3D Printer for print the body of the can. 
+- 3D Printer for print the body of the cube. 
  
 - Arduino 
 
