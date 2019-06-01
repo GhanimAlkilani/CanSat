@@ -20,9 +20,6 @@ send information from the space to the receiver on the earth ..etc
 <div style="text-align:center"><img src ="https://github.com/GhanimAlkilani/CanSat/blob/master/Pictures/4.jpeg" /></div>
 
 
-<div style="text-align:center"><img src ="https://github.com/GhanimAlkilani/CanSat/blob/master/Pictures/cas.jpg" /></div>
-
-
 <div style="text-align:center"><img src ="https://github.com/GhanimAlkilani/CanSat/blob/master/Pictures/9.jpeg" /></div>
 
 
