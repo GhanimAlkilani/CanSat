@@ -1,9 +1,8 @@
 # CubeSat
 
 ## Description
-CubeSat it's small Sat with many features such as catch photos and videos and 
-send information from the space to the receiver on the earth ..etc
-
+CubeSat it's small Sat with many features such as taking photos, videos and 
+sending information from the space to the receiver on the earth.
 
 ## Technologies 
 - 3D Printer for print the body of the cube. 
