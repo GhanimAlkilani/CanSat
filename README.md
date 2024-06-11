@@ -1,8 +1,8 @@
 # CubeSat
 
 ## Description
-CubeSat it's small Sat with many features such as taking photos, videos and 
-sending information from the space to the receiver on the earth.
+A CubeSat is a small satellite equipped with a range of features, including capturing photos, videos, and transmitting data from space to Earth receivers.
+This versatile satellite is developed using Arduino technology and fabricated with a 3D printer.
 
 ## Technologies 
 - 3D Printer for print the body of the cube. 
